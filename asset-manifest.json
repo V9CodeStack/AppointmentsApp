@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AppointmentsApp/static/css/main.36f3e85e.css",
+    "main.js": "/AppointmentsApp/static/js/main.f9a5c45d.js",
+    "static/js/787.d3befce1.chunk.js": "/AppointmentsApp/static/js/787.d3befce1.chunk.js",
+    "index.html": "/AppointmentsApp/index.html",
+    "main.36f3e85e.css.map": "/AppointmentsApp/static/css/main.36f3e85e.css.map",
+    "main.f9a5c45d.js.map": "/AppointmentsApp/static/js/main.f9a5c45d.js.map",
+    "787.d3befce1.chunk.js.map": "/AppointmentsApp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f3e85e.css",
+    "static/js/main.f9a5c45d.js"
+  ]
+}
